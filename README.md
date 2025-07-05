@@ -1,66 +1,79 @@
-## Hi there 👋
-# 💻 Web Development Internship Experience
+# 👩‍💻 Madhumitha H
 
-This repository summarizes my journey and contributions during my Web Development Internship, where I focused on building smart, user-friendly web tools and real-time features using HTML, CSS, JavaScript, and basic backend logic.
-
----
-
-## 🏢 Internship Overview
-
-**Role:** Web Development Intern  
-**Duration:** 1 month  
-**Organization:** wiztech  
-**Tech Stack:** HTML, CSS, JavaScript, Node.js (basic), APIs
+**Aspiring AI and Data Science Engineer**  
+📍 Chennai, India  
+📧 [madhuh1210@gmail.com](mailto:madhuh1210@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/madhumitha-harikarthikeyan-4549232b8)  
+📞 +91 94446 35498  
 
 ---
 
-## 🔧 Key Contributions
-
-### ✅ Front-End Development
-- Built fully responsive, mobile-friendly interfaces with clean layouts using **HTML, CSS, and JavaScript**
-- Ensured accessibility, responsiveness, and cross-browser compatibility
-- Added simple animations and styled elements to make the UI more intuitive
-
-### ✅ Smart Functionalities & APIs
-- Integrated OTP-based user access logic using JavaScript  
-- Worked with real-time input parsing and API calls for response generation
+## 🎯 Objective
+Passionate AI and Data Science student eager to apply my skills in real-world projects and innovations that create meaningful impact.
 
 ---
 
-## 💡 Projects Built
-
-### 🧠 OTP-Based Chatbot for Programming Queries
-- Designed a chatbot that verifies the user using OTP
-- Once verified, users can ask programming questions (except Java)
-- Smartly identifies the programming language and returns relevant responses
-- Uses a structured Q&A pattern with validation
-
-### 🌐 OTP-Based Web Page Translator
-- Developed a translator tool where the user enters OTP for secure access
-- After login, user can translate webpage content into multiple languages
-- Integrated translation logic using JavaScript + API calls
-- Clean UI with language selector dropdown and translated output zone
+## 🎓 Education
+**B.Tech. in Artificial Intelligence and Data Science**  
+St. Joseph’s College of Engineering, 2023 – 2027  
+**CGPA:** 8.1/10
 
 ---
 
-## 🌱 What I Learned
+## 💡 Projects
 
-- Built interactive, real-world projects using core web technologies
-- Strengthened DOM manipulation and event-handling concepts
-- Gained hands-on experience with input validation, UI logic, and API usage
-- Improved UI/UX design skills through layout building and user testing
+### 🔸 [Carbon Emissions Prediction Model](https://github.com/madhuh1210/carbonemissionprediction-intern)
+> Machine Learning + Data Science  
+- Analyzed CO₂ and energy consumption data from 1990–2011  
+- Data cleaning, EDA, feature engineering  
+- Built a **Random Forest Regressor** achieving **R² = 0.98** on test set  
+- Visualizations: heatmaps, correlation matrix, actual vs predicted plots  
+
+### 🔸 Healthcare Feedback Analyzer
+> Cloud + ML (Azure + XGBoost)  
+- Preprocessed hospital feedback data  
+- Built classification pipelines using TF-IDF and XGBoost  
+- Containerized with **Docker** and deployed via **Azure DevOps CI/CD**
 
 ---
 
-## 🚀 Deployment
+## 🛠 Skills
 
-Projects were tested and hosted on platforms like:
-- **Vercel** for fast deployment and previewing changes
-- Optimized for both desktop and mobile users
+- **Languages**: C, Python, Java  
+- **Tech Stack**: Azure, MySQL, Docker, React, HTML, CSS, JS  
+- **Tools & Concepts**: Git, NLP, ML, XGBoost
 
 ---
 
-## 📬 Let’s Connect!
+## 📜 Certifications
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhumitha-harikarthikeyan-4549232b8)
-- 📧 madhuh1210@gmail.com
+- Microsoft Certified: **Azure Fundamentals**  
+- Basics of Networking – **CISCO**
+
+---
+
+## 🧑‍💼 Experience
+
+**Intern – Full Stack Web Development**  
+*Nullclass*  
+- Built responsive React web apps  
+- Designed dynamic UIs and implemented routing/navigation  
+- Contributed to educational platform development
+
+---
+
+## 🤝 Volunteering
+
+**Social Media Manager**  
+*AWS Cloud Club – St. Joseph Group of Institutions*
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **Second Runner-Up**, HACK-A-CLOUD 2025  
+*St. Joseph’s College of Engineering*
+
+---
+
+> 👀 Open to internship and project opportunities in AI, ML, Full Stack Development, and Cloud

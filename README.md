@@ -16,7 +16,7 @@ Passionate AI and Data Science student eager to apply my skills in real-world pr
 ## 🎓 Education
 **B.Tech. in Artificial Intelligence and Data Science**  
 St. Joseph’s College of Engineering, 2023 – 2027  
-**CGPA:** 8.1/10
+**CGPA:** 8.23/10
 
 ---
 
